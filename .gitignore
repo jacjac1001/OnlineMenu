@@ -1,0 +1,11 @@
+# Maven generated files
+/target/
+
+# NetBeans machine-specific configuration
+/nbproject/private/
+
+# Compiled Java files
+*.class
+
+# Log files
+*.log
