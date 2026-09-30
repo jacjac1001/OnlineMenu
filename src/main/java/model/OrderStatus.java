@@ -9,5 +9,9 @@ package model;
  * @author gia khang
  */
 public enum OrderStatus {
-    
+    PENDING,
+    PREPARING,
+    READY,
+    SERVED,
+    CANCELLED
 }
