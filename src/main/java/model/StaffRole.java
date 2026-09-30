@@ -9,5 +9,6 @@ package model;
  * @author gia khang
  */
 public enum StaffRole {
-    
+    ADMIN,
+    KITCHEN
 }
